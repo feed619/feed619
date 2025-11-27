@@ -13,7 +13,7 @@
   <tr>
     <td>
       <a href="https://github.com/feed619/DraftMaster-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=DraftMaster&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=DraftMaster-App&theme=dark" />
       </a>
     </td>
     <td>
