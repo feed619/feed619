@@ -9,17 +9,68 @@
 - 🔹 [**GoodSkins**](https://github.com/feed619/GoodSkins): GoodSkins — это Telegram-группа, в которой можно найти скины и получить выгоду при пополнении кошелька Steam на 50% и более.
 
 ### 📂 Все репозитории:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=DraftMaster-App&theme=dark)](https://github.com/feed619/DraftMaster-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=crtfiles&theme=dark)](https://github.com/feed619/crtfiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=GoodSkins&theme=dark)](https://github.com/feed619/GoodSkins)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=PetriNets&theme=dark)](https://github.com/feed619/PetriNets)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=CalculatorSlay&theme=dark)](https://github.com/feed619/CalculatorSlay)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=Checkers&theme=dark)](https://github.com/feed619/Checkers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=Pong&theme=dark)](https://github.com/feed619/Pong)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=https-domain-setup&theme=dark)](https://github.com/feed619/https-domain-setup)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=TwitchBots&theme=dark)](https://github.com/feed619/TwitchBots)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=SkinProfit&theme=dark)](https://github.com/feed619/SkinProfit)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/feed619/DraftMaster-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=DraftMaster-App&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/feed619/crtfiles">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=crtfiles&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/feed619/GoodSkins">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=GoodSkins&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/feed619/PetriNets">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=PetriNets&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/feed619/CalculatorSlay">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=CalculatorSlay&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/feed619/Checkers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=Checkers&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/feed619/Pong">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=Pong&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/feed619/https-domain-setup">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=https-domain-setup&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/feed619/TwitchBots">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=TwitchBots&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/feed619/SkinProfit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=SkinProfit&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
