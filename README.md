@@ -5,13 +5,21 @@
 
 ### 🌟 Избранные проекты:
 - 🔹 [**crt**](https://github.com/feed619/crtfiles): crt — мощный инструмент командной строки, предназначенный для быстрого и простого создания файлов, а также позволяющий создавать проекты на основе предопределенных шаблонов. Этот инструмент поможет вам сэкономить время и повысить производительность, устраняя необходимость вручную создавать файлы и организовывать контент.
-- 🔹 [**MultiPass**](https://github.com/feed619/MultiPass): MultiPass — удобное и безопасное приложение для хранения паролей от всех ваших сайтов и приложений в одном месте. Забудьте о множестве сложных комбинаций, которые вам нужно запомнить.
-- 🔹 [**TwitchBots**](https://github.com/feed619/TwitchBots): TwitchBots - отправляй сообщения в чат Twitch с нескольких аккаунтов.
+- 🔹 [**DraftMaster**]([https://github.com/feed619/DraftMaster-App): DraftMaster — это мощный инструмент для анализа статистики игроков Dota 2. С его помощью вы можете быстро получить подробную статистику по любому профилю, увидеть оценку игрока, сформированную на основе его матчей, а также возможность подписаться на интересующих игроков.
+- 🔹 [**GoodSkins**](https://github.com/feed619/GoodSkins): GoodSkins — это Telegram-группа, в которой можно найти скины и получить выгоду при пополнении кошелька Steam на 50% и более.
 
 ### 📂 Все репозитории:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=DraftMaster-App&theme=dark)](https://github.com/feed619/DraftMaster-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=crtfiles&theme=dark)](https://github.com/feed619/crtfiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=MultiPass&theme=dark)](https://github.com/feed619/MultiPass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=GoodSkins&theme=dark)](https://github.com/feed619/GoodSkins)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=PetriNets&theme=dark)](https://github.com/feed619/PetriNets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=CalculatorSlay&theme=dark)](https://github.com/feed619/CalculatorSlay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=Checkers&theme=dark)](https://github.com/feed619/Checkers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=Pong&theme=dark)](https://github.com/feed619/Pong)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=https-domain-setup&theme=dark)](https://github.com/feed619/https-domain-setup)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=TwitchBots&theme=dark)](https://github.com/feed619/TwitchBots)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=SkinProfit&theme=dark)](https://github.com/feed619/SkinProfit)
+
 
 ---
 
