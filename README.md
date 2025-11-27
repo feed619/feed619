@@ -80,7 +80,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=feed619&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=feed619&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feed619&layout=compact&theme=dark&hide=html,css,scss,roff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feed619&layout=compact&theme=dark&hide=html,css,scss,roff,perl,cmake,dockerfile,makefile,tex" />
 </div>
 
 ---
