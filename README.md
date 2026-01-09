@@ -16,60 +16,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=DraftMaster-App&theme=dark" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/feed619/crtfiles">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=crtfiles&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/feed619/GoodSkins">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=GoodSkins&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/feed619/PetriNets">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=PetriNets&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/feed619/CalculatorSlay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=CalculatorSlay&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/feed619/Checkers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=Checkers&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/feed619/Pong">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=Pong&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/feed619/https-domain-setup">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=https-domain-setup&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/feed619/TwitchBots">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=TwitchBots&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/feed619/SkinProfit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=SkinProfit&theme=dark" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 
