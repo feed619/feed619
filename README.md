@@ -7,70 +7,20 @@
 - 🔹 [**DraftMaster**](https://github.com/feed619/DraftMaster-App): DraftMaster — это мощный инструмент для анализа статистики игроков Dota 2. С его помощью вы можете быстро получить подробную статистику по любому профилю, увидеть оценку игрока, сформированную на основе его матчей, а также возможность подписаться на интересующих игроков.
 - 🔹 [**GoodSkins**](https://github.com/feed619/GoodSkins): GoodSkins — это Telegram-группа, в которой можно найти скины и получить выгоду при пополнении кошелька Steam на 50% и более.
 
+### 📂 Мои проекты:
 
-### 📂 Все репозитории:
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/feed619/DraftMaster-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=DraftMaster-App&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/feed619/crtfiles">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=crtfiles&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/feed619/GoodSkins">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=GoodSkins&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/feed619/PetriNets">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=PetriNets&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/feed619/CalculatorSlay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=CalculatorSlay&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/feed619/Checkers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=Checkers&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/feed619/Pong">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=Pong&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/feed619/https-domain-setup">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=https-domain-setup&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/feed619/TwitchBots">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=TwitchBots&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/feed619/SkinProfit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feed619&repo=SkinProfit&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Проект | Описание |
+|--------|----------|
+| [DraftMaster-App](https://github.com/feed619/DraftMaster-App) | Приложение для управления черновиками |
+| [crtfiles](https://github.com/feed619/crtfiles) | Работа с CRT файлами |
+| [GoodSkins](https://github.com/feed619/GoodSkins) | Скины для игр |
+| [PetriNets](https://github.com/feed619/PetriNets) | Сети Петри |
+| [CalculatorSlay](https://github.com/feed619/CalculatorSlay) | Калькулятор |
+| [Checkers](https://github.com/feed619/Checkers) | Шашки |
+| [Pong](https://github.com/feed619/Pong) | Игра Pong |
+| [https-domain-setup](https://github.com/feed619/https-domain-setup) | Настройка HTTPS |
+| [TwitchBots](https://github.com/feed619/TwitchBots) | Боты для Twitch |
+| [SkinProfit](https://github.com/feed619/SkinProfit) | Анализ скинов |
 
 
 ---
