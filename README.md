@@ -8,12 +8,31 @@
 - 🔹 [**DraftMaster**](https://github.com/feed619/DraftMaster-App) — это мощный инструмент для анализа статистики игроков Dota 2. С его помощью вы можете быстро получить подробную статистику по любому профилю, увидеть оценку игрока, сформированную на основе его матчей, а также возможность подписаться на интересующих игроков.
 ---
 
-## 📈 Статистика:
+## 📈 Статистика
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feed619&theme=dark" alt="GitHub Streak" />
+  
+  <!-- Основная статистика -->
+  <img src="https://github-readme-stats.vercel.app/api?username=feed619&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  
+  <br/>
+  
+  <!-- Языки программирования -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feed619&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  
+  <br/>
+  
+  <!-- Streak (ваша текущая) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feed619&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <!-- Доп. активность (опционально) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=feed619&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  
 </div>
 
+---
 ---
 
 ## 📬 Контакты:
